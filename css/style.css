@@ -430,12 +430,12 @@ header {
 .section_img {
   margin-top: 36px;
   display: flex;
-  flex-wrap: wrap;
   column-gap: 20px;
   row-gap: 14px;
 }
 .section_img img {
   width: 100%;
 }
-
-
+.section_block_img img {
+  width: auto;
+}
