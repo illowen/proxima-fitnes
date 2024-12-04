@@ -160,6 +160,12 @@
         top: 6vw;
         font-size: 3vw;
     }
+    .section_img {
+        flex-wrap: wrap;
+    }
+    .section_block_img img {
+        width: 100%;
+    }
 }
  
 @media screen and (max-width: 600px) {
