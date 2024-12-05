@@ -47,6 +47,7 @@ header {
   width: 100%;
   z-index: 8;
   transition: all 0.2s linear;
+  display: none;
 }
 .header_wrapper {
   display: flex;
