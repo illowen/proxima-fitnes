@@ -148,7 +148,9 @@
 }
 
 @media screen and (max-width: 991px) {
-
+    .header_search {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 840px) {
@@ -165,6 +167,10 @@
     }
     .section_block_img img {
         width: 100%;
+    }
+
+    .header_contacts {
+        display: none;
     }
 }
  
@@ -202,6 +208,15 @@
     }
     .section_item {
         font-size: 18px;
+    }
+    .header_wrapper .header_logo {
+        margin-right: 20px;
+    }
+    .social {
+        margin-right: 0;
+    }
+    .header_admin {
+        display: none;
     }
 }
 
