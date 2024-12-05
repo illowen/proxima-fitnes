@@ -18,7 +18,6 @@
         font-size: 12px;
     }
     .breadcrumb_wrapp {
-        margin-top: 162px;
     }
     .header_wrapper {
         padding: 0 16px;
@@ -46,7 +45,6 @@
 
 @media screen and (max-width: 1178px) {
     .breadcrumb_wrapp {
-        margin-top: 86px;
     }
     .banner_title {
         top: 62px;
