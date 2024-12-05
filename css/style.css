@@ -315,10 +315,10 @@ header {
 /**************************************************************************************/
 
 .breadcrumb_wrapp {
-  max-width: 1842px;
-  margin: 180px auto 0;
-  padding: 0 32px;
-  background: #eaeaea;
+    max-width: 1856px;
+    margin: 0 auto;
+    padding: 0 32px;
+    background: #eaeaea;
 }
 .breadcrumb {
   display: flex;
